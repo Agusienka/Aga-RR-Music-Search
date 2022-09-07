@@ -1,4 +1,5 @@
 // SeachBar.js
+import React from 'react';
 import { useState } from 'react'
 
 function SearchBar(props) {
